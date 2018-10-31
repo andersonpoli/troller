@@ -1,0 +1,8 @@
+{
+  "name": "troller_slider",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular",
+  "pro_id": "f31ed0a6"
+}
